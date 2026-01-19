@@ -1,0 +1,886 @@
+Student_ID,Dropout_Probability,Current_Status,Risk_Level
+2748,0.99,1,🔴 Critical
+689,0.99,1,🔴 Critical
+2021,0.99,1,🔴 Critical
+1541,0.98,1,🔴 Critical
+1381,0.98,1,🔴 Critical
+2407,0.98,1,🔴 Critical
+1539,0.98,1,🔴 Critical
+1222,0.98,1,🔴 Critical
+716,0.97,1,🔴 Critical
+2448,0.97,1,🔴 Critical
+1625,0.97,1,🔴 Critical
+1786,0.97,1,🔴 Critical
+3582,0.97,1,🔴 Critical
+1850,0.97,1,🔴 Critical
+3205,0.97,1,🔴 Critical
+477,0.97,1,🔴 Critical
+1548,0.96,1,🔴 Critical
+3065,0.96,1,🔴 Critical
+3014,0.96,1,🔴 Critical
+1509,0.96,1,🔴 Critical
+967,0.96,1,🔴 Critical
+1362,0.96,1,🔴 Critical
+1747,0.95,1,🔴 Critical
+2004,0.95,1,🔴 Critical
+659,0.95,1,🔴 Critical
+3223,0.95,1,🔴 Critical
+1013,0.95,1,🔴 Critical
+1950,0.95,1,🔴 Critical
+1416,0.95,1,🔴 Critical
+3533,0.95,1,🔴 Critical
+2756,0.95,1,🔴 Critical
+1638,0.94,1,🔴 Critical
+3198,0.94,1,🔴 Critical
+3496,0.94,1,🔴 Critical
+2270,0.94,1,🔴 Critical
+1536,0.93,1,🔴 Critical
+2085,0.93,1,🔴 Critical
+3487,0.93,1,🔴 Critical
+748,0.93,1,🔴 Critical
+2711,0.93,1,🔴 Critical
+2934,0.93,1,🔴 Critical
+2440,0.93,1,🔴 Critical
+531,0.93,1,🔴 Critical
+513,0.93,1,🔴 Critical
+90,0.93,1,🔴 Critical
+495,0.93,1,🔴 Critical
+4372,0.93,1,🔴 Critical
+972,0.92,1,🔴 Critical
+35,0.92,1,🔴 Critical
+1262,0.92,1,🔴 Critical
+734,0.92,1,🔴 Critical
+3262,0.92,1,🔴 Critical
+644,0.92,1,🔴 Critical
+4357,0.92,1,🔴 Critical
+4326,0.92,1,🔴 Critical
+3819,0.92,1,🔴 Critical
+1510,0.92,1,🔴 Critical
+4075,0.92,1,🔴 Critical
+711,0.91,1,🔴 Critical
+3383,0.91,1,🔴 Critical
+1386,0.91,1,🔴 Critical
+3102,0.91,1,🔴 Critical
+4283,0.91,1,🔴 Critical
+1204,0.9,1,🔴 Critical
+2327,0.9,1,🔴 Critical
+866,0.9,1,🔴 Critical
+2594,0.9,0,🔴 Critical
+842,0.9,1,🔴 Critical
+3722,0.9,1,🔴 Critical
+678,0.9,1,🔴 Critical
+1569,0.9,1,🔴 Critical
+2939,0.89,1,🔴 Critical
+1572,0.89,1,🔴 Critical
+1860,0.89,1,🔴 Critical
+1687,0.89,1,🔴 Critical
+2910,0.89,1,🔴 Critical
+1295,0.89,1,🔴 Critical
+2750,0.88,1,🔴 Critical
+2523,0.88,1,🔴 Critical
+4140,0.88,1,🔴 Critical
+2033,0.88,1,🔴 Critical
+4089,0.88,1,🔴 Critical
+2486,0.88,1,🔴 Critical
+192,0.88,1,🔴 Critical
+3964,0.87,1,🔴 Critical
+1473,0.87,1,🔴 Critical
+4415,0.86,1,🔴 Critical
+1273,0.86,1,🔴 Critical
+2485,0.86,1,🔴 Critical
+2402,0.86,1,🔴 Critical
+2930,0.85,1,🔴 Critical
+4276,0.85,1,🔴 Critical
+3365,0.85,1,🔴 Critical
+3713,0.84,1,🔴 Critical
+239,0.84,1,🔴 Critical
+3904,0.84,1,🔴 Critical
+4008,0.84,1,🔴 Critical
+3340,0.83,1,🔴 Critical
+3590,0.82,0,🔴 Critical
+1629,0.82,1,🔴 Critical
+496,0.82,1,🔴 Critical
+4242,0.82,1,🔴 Critical
+808,0.82,1,🔴 Critical
+393,0.82,1,🔴 Critical
+916,0.82,1,🔴 Critical
+3341,0.81,0,🔴 Critical
+3873,0.81,1,🔴 Critical
+247,0.81,1,🔴 Critical
+906,0.8,1,🟡 High Risk
+971,0.8,1,🟡 High Risk
+2330,0.79,1,🟡 High Risk
+1766,0.79,1,🟡 High Risk
+3185,0.79,1,🟡 High Risk
+2689,0.79,1,🟡 High Risk
+3837,0.78,1,🟡 High Risk
+2325,0.78,1,🟡 High Risk
+810,0.78,1,🟡 High Risk
+311,0.78,1,🟡 High Risk
+1897,0.78,1,🟡 High Risk
+2227,0.77,1,🟡 High Risk
+3859,0.77,1,🟡 High Risk
+1388,0.76,1,🟡 High Risk
+4288,0.75,1,🟡 High Risk
+2267,0.75,1,🟡 High Risk
+4375,0.75,1,🟡 High Risk
+3505,0.74,1,🟡 High Risk
+4387,0.74,1,🟡 High Risk
+2363,0.73,0,🟡 High Risk
+4301,0.73,1,🟡 High Risk
+1593,0.72,1,🟡 High Risk
+2266,0.72,1,🟡 High Risk
+1135,0.72,1,🟡 High Risk
+2450,0.72,0,🟡 High Risk
+3699,0.72,1,🟡 High Risk
+2326,0.71,0,🟡 High Risk
+191,0.71,0,🟡 High Risk
+3485,0.71,1,🟡 High Risk
+2786,0.71,1,🟡 High Risk
+923,0.71,1,🟡 High Risk
+3526,0.71,1,🟡 High Risk
+4311,0.71,0,🟡 High Risk
+1272,0.7,1,🟡 High Risk
+3274,0.7,1,🟡 High Risk
+1823,0.7,1,🟡 High Risk
+3637,0.7,0,🟡 High Risk
+3744,0.7,1,🟡 High Risk
+2789,0.7,1,🟡 High Risk
+3055,0.7,1,🟡 High Risk
+3188,0.7,1,🟡 High Risk
+2553,0.69,1,🟡 High Risk
+1799,0.69,1,🟡 High Risk
+1317,0.69,1,🟡 High Risk
+4299,0.69,1,🟡 High Risk
+1127,0.68,0,🟡 High Risk
+1282,0.68,1,🟡 High Risk
+1859,0.68,0,🟡 High Risk
+939,0.67,1,🟡 High Risk
+1712,0.67,1,🟡 High Risk
+1717,0.67,0,🟡 High Risk
+2549,0.67,1,🟡 High Risk
+3074,0.66,1,🟡 High Risk
+2244,0.66,1,🟡 High Risk
+924,0.65,0,🟡 High Risk
+4298,0.65,1,🟡 High Risk
+3823,0.65,1,🟡 High Risk
+2447,0.64,0,🟡 High Risk
+277,0.64,1,🟡 High Risk
+4215,0.64,1,🟡 High Risk
+1771,0.64,0,🟡 High Risk
+1878,0.64,1,🟡 High Risk
+4261,0.63,1,🟡 High Risk
+3252,0.63,1,🟡 High Risk
+2256,0.63,1,🟡 High Risk
+3242,0.63,1,🟡 High Risk
+1568,0.63,0,🟡 High Risk
+3577,0.63,1,🟡 High Risk
+2059,0.63,1,🟡 High Risk
+1886,0.62,1,🟡 High Risk
+730,0.62,1,🟡 High Risk
+2979,0.62,1,🟡 High Risk
+1636,0.62,0,🟡 High Risk
+1833,0.61,1,🟡 High Risk
+4263,0.61,1,🟡 High Risk
+3625,0.61,0,🟡 High Risk
+4246,0.61,1,🟡 High Risk
+3583,0.6,0,🟡 High Risk
+1699,0.6,1,🟡 High Risk
+89,0.6,0,🟡 High Risk
+3861,0.6,1,🟡 High Risk
+387,0.6,0,🟡 High Risk
+3996,0.6,1,🟡 High Risk
+4354,0.6,0,🟡 High Risk
+1881,0.6,1,🟡 High Risk
+980,0.59,1,🟡 High Risk
+2203,0.59,1,🟡 High Risk
+3463,0.58,0,🟡 High Risk
+757,0.58,1,🟡 High Risk
+2645,0.58,1,🟡 High Risk
+1856,0.57,0,🟡 High Risk
+2935,0.57,1,🟡 High Risk
+4081,0.57,0,🟡 High Risk
+3471,0.57,0,🟡 High Risk
+4356,0.57,1,🟡 High Risk
+1463,0.57,1,🟡 High Risk
+1299,0.57,0,🟡 High Risk
+2180,0.57,1,🟡 High Risk
+2274,0.56,1,🟡 High Risk
+3934,0.56,1,🟡 High Risk
+3279,0.55,0,🟡 High Risk
+840,0.55,1,🟡 High Risk
+1544,0.54,1,🟡 High Risk
+2764,0.54,0,🟡 High Risk
+2651,0.54,1,🟡 High Risk
+2052,0.54,1,🟡 High Risk
+487,0.54,1,🟡 High Risk
+933,0.53,1,🟡 High Risk
+534,0.53,0,🟡 High Risk
+2127,0.53,1,🟡 High Risk
+1529,0.52,1,🟡 High Risk
+255,0.52,1,🟡 High Risk
+1226,0.52,0,🟡 High Risk
+1841,0.51,1,🟡 High Risk
+3203,0.51,1,🟡 High Risk
+2879,0.51,1,🟡 High Risk
+4208,0.5,1,🟢 Stable
+2405,0.5,0,🟢 Stable
+2962,0.5,1,🟢 Stable
+3339,0.5,0,🟢 Stable
+3683,0.5,0,🟢 Stable
+4146,0.5,1,🟢 Stable
+0,0.49,1,🟢 Stable
+205,0.49,0,🟢 Stable
+1333,0.48,0,🟢 Stable
+574,0.48,0,🟢 Stable
+4220,0.48,1,🟢 Stable
+1356,0.48,1,🟢 Stable
+1849,0.48,0,🟢 Stable
+535,0.47,0,🟢 Stable
+2723,0.46,1,🟢 Stable
+2412,0.46,0,🟢 Stable
+4020,0.46,1,🟢 Stable
+3707,0.46,0,🟢 Stable
+2511,0.45,0,🟢 Stable
+1493,0.45,0,🟢 Stable
+3237,0.45,0,🟢 Stable
+567,0.45,1,🟢 Stable
+3677,0.45,1,🟢 Stable
+1847,0.45,1,🟢 Stable
+1420,0.45,1,🟢 Stable
+1594,0.44,0,🟢 Stable
+1763,0.44,0,🟢 Stable
+3324,0.44,1,🟢 Stable
+1105,0.44,1,🟢 Stable
+4308,0.44,1,🟢 Stable
+3709,0.44,1,🟢 Stable
+3183,0.44,0,🟢 Stable
+955,0.43,1,🟢 Stable
+2759,0.43,0,🟢 Stable
+2094,0.43,1,🟢 Stable
+835,0.42,0,🟢 Stable
+2231,0.42,1,🟢 Stable
+169,0.42,1,🟢 Stable
+3794,0.42,1,🟢 Stable
+573,0.42,0,🟢 Stable
+3612,0.42,1,🟢 Stable
+2236,0.41,0,🟢 Stable
+3159,0.41,0,🟢 Stable
+1088,0.41,0,🟢 Stable
+2346,0.41,0,🟢 Stable
+800,0.41,0,🟢 Stable
+2159,0.41,1,🟢 Stable
+1220,0.41,1,🟢 Stable
+4235,0.41,0,🟢 Stable
+367,0.41,0,🟢 Stable
+2400,0.4,1,🟢 Stable
+885,0.4,0,🟢 Stable
+2833,0.4,0,🟢 Stable
+2268,0.4,1,🟢 Stable
+2465,0.4,1,🟢 Stable
+360,0.4,0,🟢 Stable
+2106,0.39,0,🟢 Stable
+2151,0.39,0,🟢 Stable
+4305,0.38,1,🟢 Stable
+4377,0.38,1,🟢 Stable
+1581,0.38,0,🟢 Stable
+946,0.38,0,🟢 Stable
+3412,0.37,0,🟢 Stable
+4336,0.37,0,🟢 Stable
+1337,0.37,0,🟢 Stable
+872,0.37,0,🟢 Stable
+72,0.37,1,🟢 Stable
+3097,0.37,1,🟢 Stable
+807,0.37,0,🟢 Stable
+62,0.37,0,🟢 Stable
+2119,0.37,0,🟢 Stable
+3090,0.36,0,🟢 Stable
+1630,0.36,0,🟢 Stable
+2597,0.36,1,🟢 Stable
+4257,0.36,0,🟢 Stable
+4090,0.35,0,🟢 Stable
+1175,0.35,1,🟢 Stable
+2251,0.35,1,🟢 Stable
+4119,0.35,0,🟢 Stable
+3727,0.35,0,🟢 Stable
+2544,0.34,0,🟢 Stable
+3022,0.34,1,🟢 Stable
+4161,0.34,0,🟢 Stable
+4413,0.34,0,🟢 Stable
+2586,0.34,0,🟢 Stable
+3030,0.34,1,🟢 Stable
+1197,0.34,1,🟢 Stable
+3778,0.33,0,🟢 Stable
+145,0.33,0,🟢 Stable
+2430,0.33,0,🟢 Stable
+1989,0.33,0,🟢 Stable
+3369,0.33,1,🟢 Stable
+3490,0.33,1,🟢 Stable
+1188,0.33,0,🟢 Stable
+3853,0.33,1,🟢 Stable
+1507,0.33,0,🟢 Stable
+3841,0.32,0,🟢 Stable
+1471,0.32,0,🟢 Stable
+4268,0.31,1,🟢 Stable
+4177,0.31,0,🟢 Stable
+1535,0.31,0,🟢 Stable
+2384,0.31,0,🟢 Stable
+930,0.31,0,🟢 Stable
+2488,0.31,0,🟢 Stable
+1670,0.31,0,🟢 Stable
+2121,0.3,0,🟢 Stable
+341,0.3,1,🟢 Stable
+869,0.3,0,🟢 Stable
+3592,0.3,1,🟢 Stable
+677,0.3,0,🟢 Stable
+3731,0.29,1,🟢 Stable
+1072,0.29,0,🟢 Stable
+545,0.29,0,🟢 Stable
+1466,0.29,1,🟢 Stable
+2050,0.28,0,🟢 Stable
+4189,0.28,0,🟢 Stable
+2969,0.28,0,🟢 Stable
+2570,0.28,0,🟢 Stable
+3690,0.28,0,🟢 Stable
+2902,0.28,0,🟢 Stable
+3004,0.28,0,🟢 Stable
+696,0.27,0,🟢 Stable
+1113,0.27,0,🟢 Stable
+1447,0.27,1,🟢 Stable
+963,0.27,0,🟢 Stable
+2941,0.27,0,🟢 Stable
+25,0.27,0,🟢 Stable
+1120,0.27,0,🟢 Stable
+1193,0.27,0,🟢 Stable
+2413,0.27,0,🟢 Stable
+2169,0.27,0,🟢 Stable
+2988,0.26,0,🟢 Stable
+1506,0.26,0,🟢 Stable
+2418,0.26,0,🟢 Stable
+2859,0.26,0,🟢 Stable
+3170,0.26,0,🟢 Stable
+4289,0.26,0,🟢 Stable
+774,0.26,0,🟢 Stable
+3125,0.26,0,🟢 Stable
+1370,0.26,0,🟢 Stable
+818,0.26,0,🟢 Stable
+2589,0.26,0,🟢 Stable
+2997,0.25,0,🟢 Stable
+855,0.25,1,🟢 Stable
+1532,0.25,0,🟢 Stable
+1485,0.25,0,🟢 Stable
+2709,0.25,0,🟢 Stable
+444,0.25,0,🟢 Stable
+4338,0.25,0,🟢 Stable
+2648,0.25,1,🟢 Stable
+2002,0.25,0,🟢 Stable
+417,0.25,1,🟢 Stable
+221,0.25,0,🟢 Stable
+2649,0.25,1,🟢 Stable
+2083,0.25,0,🟢 Stable
+1803,0.25,1,🟢 Stable
+2218,0.24,0,🟢 Stable
+986,0.24,0,🟢 Stable
+3681,0.24,0,🟢 Stable
+2470,0.24,0,🟢 Stable
+2681,0.24,1,🟢 Stable
+764,0.24,0,🟢 Stable
+1118,0.24,0,🟢 Stable
+2698,0.24,1,🟢 Stable
+222,0.24,1,🟢 Stable
+3994,0.24,0,🟢 Stable
+1487,0.24,0,🟢 Stable
+1955,0.24,0,🟢 Stable
+3518,0.24,1,🟢 Stable
+133,0.24,1,🟢 Stable
+1436,0.24,0,🟢 Stable
+2277,0.24,0,🟢 Stable
+2048,0.24,0,🟢 Stable
+3633,0.24,0,🟢 Stable
+3461,0.23,0,🟢 Stable
+4292,0.23,0,🟢 Stable
+2357,0.23,1,🟢 Stable
+1206,0.23,0,🟢 Stable
+3803,0.23,0,🟢 Stable
+429,0.23,0,🟢 Stable
+2286,0.23,0,🟢 Stable
+3466,0.22,0,🟢 Stable
+3756,0.22,0,🟢 Stable
+3999,0.22,1,🟢 Stable
+2555,0.22,0,🟢 Stable
+2016,0.22,0,🟢 Stable
+2628,0.22,0,🟢 Stable
+2183,0.22,1,🟢 Stable
+874,0.22,0,🟢 Stable
+2848,0.22,1,🟢 Stable
+2364,0.22,0,🟢 Stable
+1389,0.22,0,🟢 Stable
+2571,0.22,0,🟢 Stable
+2641,0.22,0,🟢 Stable
+4284,0.22,0,🟢 Stable
+541,0.22,0,🟢 Stable
+400,0.21,0,🟢 Stable
+3173,0.21,0,🟢 Stable
+4318,0.21,0,🟢 Stable
+1851,0.21,1,🟢 Stable
+1331,0.21,0,🟢 Stable
+180,0.21,0,🟢 Stable
+3276,0.21,1,🟢 Stable
+1634,0.21,0,🟢 Stable
+1727,0.21,0,🟢 Stable
+685,0.21,0,🟢 Stable
+760,0.21,0,🟢 Stable
+1103,0.21,0,🟢 Stable
+2414,0.21,0,🟢 Stable
+4278,0.21,0,🟢 Stable
+4061,0.21,0,🟢 Stable
+2868,0.21,0,🟢 Stable
+750,0.21,0,🟢 Stable
+3628,0.21,1,🟢 Stable
+2734,0.21,0,🟢 Stable
+3606,0.2,1,🟢 Stable
+1031,0.2,0,🟢 Stable
+3556,0.2,0,🟢 Stable
+2599,0.2,0,🟢 Stable
+698,0.2,0,🟢 Stable
+2875,0.2,0,🟢 Stable
+4188,0.2,0,🟢 Stable
+2339,0.2,0,🟢 Stable
+3782,0.2,0,🟢 Stable
+284,0.2,0,🟢 Stable
+3350,0.2,0,🟢 Stable
+1633,0.2,0,🟢 Stable
+962,0.2,0,🟢 Stable
+4367,0.2,0,🟢 Stable
+1577,0.2,0,🟢 Stable
+780,0.19,0,🟢 Stable
+2674,0.19,0,🟢 Stable
+1169,0.19,0,🟢 Stable
+285,0.19,0,🟢 Stable
+2443,0.19,0,🟢 Stable
+4319,0.19,0,🟢 Stable
+3760,0.19,0,🟢 Stable
+1394,0.19,0,🟢 Stable
+3326,0.19,0,🟢 Stable
+706,0.19,0,🟢 Stable
+3678,0.19,0,🟢 Stable
+1100,0.18,1,🟢 Stable
+486,0.18,1,🟢 Stable
+1935,0.18,0,🟢 Stable
+4392,0.18,0,🟢 Stable
+540,0.18,0,🟢 Stable
+3693,0.18,1,🟢 Stable
+544,0.18,0,🟢 Stable
+661,0.18,0,🟢 Stable
+1740,0.18,1,🟢 Stable
+3788,0.18,0,🟢 Stable
+1252,0.18,0,🟢 Stable
+2751,0.18,0,🟢 Stable
+894,0.18,0,🟢 Stable
+4290,0.18,0,🟢 Stable
+1621,0.17,0,🟢 Stable
+2113,0.17,0,🟢 Stable
+4021,0.17,0,🟢 Stable
+67,0.17,0,🟢 Stable
+4112,0.17,0,🟢 Stable
+1646,0.17,0,🟢 Stable
+1741,0.17,0,🟢 Stable
+3006,0.17,0,🟢 Stable
+2341,0.17,0,🟢 Stable
+662,0.17,0,🟢 Stable
+629,0.17,0,🟢 Stable
+2574,0.17,0,🟢 Stable
+2691,0.17,0,🟢 Stable
+2271,0.17,0,🟢 Stable
+2163,0.17,0,🟢 Stable
+1335,0.16,0,🟢 Stable
+3575,0.16,0,🟢 Stable
+2345,0.16,0,🟢 Stable
+2851,0.16,0,🟢 Stable
+4391,0.16,0,🟢 Stable
+494,0.16,0,🟢 Stable
+2972,0.16,0,🟢 Stable
+1813,0.16,0,🟢 Stable
+2476,0.16,0,🟢 Stable
+4128,0.16,0,🟢 Stable
+2130,0.16,0,🟢 Stable
+1427,0.16,0,🟢 Stable
+4124,0.16,0,🟢 Stable
+1253,0.16,0,🟢 Stable
+4126,0.16,0,🟢 Stable
+911,0.16,0,🟢 Stable
+1906,0.16,0,🟢 Stable
+2250,0.16,1,🟢 Stable
+4078,0.16,0,🟢 Stable
+744,0.16,0,🟢 Stable
+4133,0.16,0,🟢 Stable
+721,0.16,0,🟢 Stable
+887,0.16,0,🟢 Stable
+1652,0.16,0,🟢 Stable
+3282,0.16,0,🟢 Stable
+3973,0.16,0,🟢 Stable
+4366,0.15,0,🟢 Stable
+2427,0.15,0,🟢 Stable
+129,0.15,0,🟢 Stable
+128,0.15,0,🟢 Stable
+3948,0.15,0,🟢 Stable
+994,0.15,0,🟢 Stable
+2349,0.15,0,🟢 Stable
+625,0.15,1,🟢 Stable
+2741,0.15,0,🟢 Stable
+2164,0.15,0,🟢 Stable
+1587,0.15,0,🟢 Stable
+2987,0.15,0,🟢 Stable
+1865,0.15,0,🟢 Stable
+548,0.15,0,🟢 Stable
+794,0.15,0,🟢 Stable
+1216,0.15,0,🟢 Stable
+300,0.15,0,🟢 Stable
+2624,0.14,0,🟢 Stable
+3957,0.14,0,🟢 Stable
+4369,0.14,0,🟢 Stable
+2249,0.14,0,🟢 Stable
+3902,0.14,0,🟢 Stable
+2355,0.14,0,🟢 Stable
+3018,0.14,0,🟢 Stable
+2056,0.14,0,🟢 Stable
+346,0.14,0,🟢 Stable
+1666,0.14,0,🟢 Stable
+1595,0.14,0,🟢 Stable
+2179,0.14,0,🟢 Stable
+1726,0.13,0,🟢 Stable
+1903,0.13,0,🟢 Stable
+1724,0.13,0,🟢 Stable
+4226,0.13,1,🟢 Stable
+1251,0.13,0,🟢 Stable
+3642,0.13,0,🟢 Stable
+641,0.13,0,🟢 Stable
+220,0.13,0,🟢 Stable
+506,0.13,0,🟢 Stable
+1609,0.13,0,🟢 Stable
+1648,0.13,1,🟢 Stable
+2098,0.13,0,🟢 Stable
+4265,0.13,0,🟢 Stable
+2419,0.13,0,🟢 Stable
+4027,0.13,1,🟢 Stable
+2154,0.13,0,🟢 Stable
+681,0.13,0,🟢 Stable
+3402,0.13,0,🟢 Stable
+4337,0.13,0,🟢 Stable
+2539,0.13,0,🟢 Stable
+3559,0.12,0,🟢 Stable
+3201,0.12,0,🟢 Stable
+3264,0.12,1,🟢 Stable
+1306,0.12,0,🟢 Stable
+2533,0.12,0,🟢 Stable
+325,0.12,0,🟢 Stable
+1794,0.12,0,🟢 Stable
+3555,0.12,0,🟢 Stable
+3180,0.12,0,🟢 Stable
+507,0.12,0,🟢 Stable
+2632,0.12,0,🟢 Stable
+1041,0.12,0,🟢 Stable
+1846,0.12,1,🟢 Stable
+4023,0.12,1,🟢 Stable
+1491,0.12,0,🟢 Stable
+3733,0.12,1,🟢 Stable
+919,0.12,0,🟢 Stable
+1153,0.12,0,🟢 Stable
+3758,0.12,0,🟢 Stable
+850,0.12,0,🟢 Stable
+167,0.12,0,🟢 Stable
+3101,0.12,0,🟢 Stable
+3959,0.12,0,🟢 Stable
+2054,0.12,0,🟢 Stable
+3581,0.12,0,🟢 Stable
+3218,0.12,0,🟢 Stable
+2105,0.12,0,🟢 Stable
+1835,0.12,0,🟢 Stable
+2220,0.12,0,🟢 Stable
+1889,0.11,0,🟢 Stable
+3021,0.11,0,🟢 Stable
+80,0.11,1,🟢 Stable
+4376,0.11,0,🟢 Stable
+1228,0.11,0,🟢 Stable
+137,0.11,0,🟢 Stable
+2496,0.11,0,🟢 Stable
+2512,0.11,0,🟢 Stable
+1027,0.11,0,🟢 Stable
+2344,0.11,0,🟢 Stable
+3390,0.11,0,🟢 Stable
+993,0.11,0,🟢 Stable
+2830,0.11,0,🟢 Stable
+4054,0.11,0,🟢 Stable
+2383,0.11,0,🟢 Stable
+2049,0.11,0,🟢 Stable
+2453,0.11,0,🟢 Stable
+1479,0.11,1,🟢 Stable
+3827,0.11,0,🟢 Stable
+1497,0.11,0,🟢 Stable
+380,0.11,1,🟢 Stable
+902,0.11,0,🟢 Stable
+1165,0.1,0,🟢 Stable
+1050,0.1,0,🟢 Stable
+3440,0.1,0,🟢 Stable
+2612,0.1,0,🟢 Stable
+3,0.1,0,🟢 Stable
+164,0.1,0,🟢 Stable
+2634,0.1,0,🟢 Stable
+1722,0.1,0,🟢 Stable
+1168,0.1,1,🟢 Stable
+3169,0.1,0,🟢 Stable
+896,0.1,0,🟢 Stable
+2671,0.1,0,🟢 Stable
+3673,0.1,0,🟢 Stable
+2147,0.1,0,🟢 Stable
+3098,0.1,0,🟢 Stable
+1141,0.1,0,🟢 Stable
+22,0.1,0,🟢 Stable
+2431,0.1,0,🟢 Stable
+3362,0.1,0,🟢 Stable
+3737,0.1,0,🟢 Stable
+363,0.1,0,🟢 Stable
+4038,0.1,0,🟢 Stable
+2694,0.1,0,🟢 Stable
+1464,0.1,0,🟢 Stable
+280,0.1,0,🟢 Stable
+478,0.1,0,🟢 Stable
+2991,0.09,0,🟢 Stable
+3423,0.09,1,🟢 Stable
+3395,0.09,0,🟢 Stable
+3121,0.09,0,🟢 Stable
+51,0.09,0,🟢 Stable
+229,0.09,0,🟢 Stable
+3134,0.09,0,🟢 Stable
+4149,0.09,0,🟢 Stable
+3545,0.09,0,🟢 Stable
+3757,0.09,0,🟢 Stable
+1977,0.09,0,🟢 Stable
+2995,0.09,0,🟢 Stable
+1395,0.09,0,🟢 Stable
+839,0.09,0,🟢 Stable
+27,0.09,0,🟢 Stable
+4137,0.09,0,🟢 Stable
+2514,0.09,1,🟢 Stable
+266,0.09,0,🟢 Stable
+3165,0.09,0,🟢 Stable
+3298,0.09,0,🟢 Stable
+1411,0.08,0,🟢 Stable
+1453,0.08,0,🟢 Stable
+1351,0.08,0,🟢 Stable
+3974,0.08,0,🟢 Stable
+48,0.08,0,🟢 Stable
+542,0.08,0,🟢 Stable
+452,0.08,0,🟢 Stable
+1352,0.08,0,🟢 Stable
+4286,0.08,0,🟢 Stable
+3766,0.08,0,🟢 Stable
+1858,0.08,0,🟢 Stable
+2176,0.08,0,🟢 Stable
+2467,0.08,0,🟢 Stable
+289,0.08,0,🟢 Stable
+2315,0.08,1,🟢 Stable
+3510,0.08,1,🟢 Stable
+3430,0.08,0,🟢 Stable
+230,0.08,0,🟢 Stable
+4244,0.08,1,🟢 Stable
+1192,0.08,0,🟢 Stable
+3970,0.08,0,🟢 Stable
+4030,0.08,0,🟢 Stable
+4294,0.08,0,🟢 Stable
+1232,0.08,0,🟢 Stable
+1695,0.07,0,🟢 Stable
+1523,0.07,1,🟢 Stable
+4396,0.07,0,🟢 Stable
+673,0.07,0,🟢 Stable
+3975,0.07,0,🟢 Stable
+3630,0.07,0,🟢 Stable
+4317,0.07,0,🟢 Stable
+1927,0.07,0,🟢 Stable
+4297,0.07,0,🟢 Stable
+3277,0.07,0,🟢 Stable
+2042,0.07,0,🟢 Stable
+315,0.07,0,🟢 Stable
+1879,0.07,0,🟢 Stable
+3476,0.07,0,🟢 Stable
+1421,0.07,0,🟢 Stable
+564,0.07,0,🟢 Stable
+1159,0.07,0,🟢 Stable
+4195,0.07,0,🟢 Stable
+1150,0.07,0,🟢 Stable
+2957,0.07,0,🟢 Stable
+958,0.07,0,🟢 Stable
+3868,0.07,0,🟢 Stable
+1825,0.06,0,🟢 Stable
+1286,0.06,0,🟢 Stable
+3700,0.06,0,🟢 Stable
+1607,0.06,0,🟢 Stable
+257,0.06,0,🟢 Stable
+2800,0.06,0,🟢 Stable
+17,0.06,0,🟢 Stable
+3239,0.06,0,🟢 Stable
+4041,0.06,0,🟢 Stable
+110,0.06,0,🟢 Stable
+1012,0.06,0,🟢 Stable
+2892,0.06,0,🟢 Stable
+1948,0.06,0,🟢 Stable
+1971,0.06,0,🟢 Stable
+3049,0.06,0,🟢 Stable
+3926,0.06,0,🟢 Stable
+4159,0.06,0,🟢 Stable
+1608,0.06,0,🟢 Stable
+3469,0.06,0,🟢 Stable
+636,0.06,0,🟢 Stable
+1946,0.06,0,🟢 Stable
+3386,0.06,0,🟢 Stable
+3261,0.06,0,🟢 Stable
+1422,0.06,0,🟢 Stable
+3657,0.06,0,🟢 Stable
+921,0.06,0,🟢 Stable
+2768,0.06,0,🟢 Stable
+647,0.06,0,🟢 Stable
+187,0.06,0,🟢 Stable
+1515,0.06,0,🟢 Stable
+3949,0.06,0,🟢 Stable
+4221,0.06,0,🟢 Stable
+3259,0.06,0,🟢 Stable
+2134,0.06,0,🟢 Stable
+3148,0.06,0,🟢 Stable
+779,0.06,0,🟢 Stable
+4032,0.06,0,🟢 Stable
+4163,0.06,0,🟢 Stable
+2802,0.06,0,🟢 Stable
+4152,0.06,0,🟢 Stable
+4219,0.06,0,🟢 Stable
+1721,0.05,0,🟢 Stable
+1339,0.05,0,🟢 Stable
+4175,0.05,0,🟢 Stable
+1513,0.05,0,🟢 Stable
+270,0.05,0,🟢 Stable
+2097,0.05,0,🟢 Stable
+3867,0.05,0,🟢 Stable
+2243,0.05,0,🟢 Stable
+4233,0.05,0,🟢 Stable
+1671,0.05,0,🟢 Stable
+4105,0.05,0,🟢 Stable
+1714,0.05,0,🟢 Stable
+3235,0.05,0,🟢 Stable
+1361,0.05,0,🟢 Stable
+3742,0.05,0,🟢 Stable
+3107,0.05,0,🟢 Stable
+3591,0.05,0,🟢 Stable
+2542,0.05,0,🟢 Stable
+2221,0.05,0,🟢 Stable
+892,0.05,0,🟢 Stable
+1979,0.05,0,🟢 Stable
+3003,0.05,1,🟢 Stable
+2731,0.05,0,🟢 Stable
+2102,0.05,0,🟢 Stable
+1484,0.05,0,🟢 Stable
+2869,0.05,0,🟢 Stable
+2015,0.05,0,🟢 Stable
+4096,0.05,0,🟢 Stable
+47,0.05,0,🟢 Stable
+3095,0.05,0,🟢 Stable
+618,0.05,0,🟢 Stable
+3574,0.05,0,🟢 Stable
+2606,0.05,0,🟢 Stable
+4179,0.04,0,🟢 Stable
+3806,0.04,0,🟢 Stable
+3432,0.04,0,🟢 Stable
+1157,0.04,0,🟢 Stable
+1330,0.04,0,🟢 Stable
+1603,0.04,0,🟢 Stable
+4332,0.04,0,🟢 Stable
+3382,0.04,0,🟢 Stable
+3385,0.04,0,🟢 Stable
+251,0.04,1,🟢 Stable
+667,0.04,0,🟢 Stable
+3781,0.04,0,🟢 Stable
+3753,0.04,0,🟢 Stable
+1390,0.04,0,🟢 Stable
+3209,0.04,0,🟢 Stable
+1620,0.04,0,🟢 Stable
+4110,0.04,0,🟢 Stable
+208,0.04,0,🟢 Stable
+2152,0.04,0,🟢 Stable
+4101,0.04,0,🟢 Stable
+1953,0.04,0,🟢 Stable
+1201,0.04,0,🟢 Stable
+3670,0.04,0,🟢 Stable
+408,0.03,0,🟢 Stable
+2187,0.03,0,🟢 Stable
+2561,0.03,0,🟢 Stable
+4227,0.03,0,🟢 Stable
+3301,0.03,0,🟢 Stable
+49,0.03,0,🟢 Stable
+1426,0.03,0,🟢 Stable
+2791,0.03,0,🟢 Stable
+1003,0.03,0,🟢 Stable
+171,0.03,0,🟢 Stable
+1075,0.03,0,🟢 Stable
+283,0.03,0,🟢 Stable
+4125,0.03,0,🟢 Stable
+1637,0.03,0,🟢 Stable
+1334,0.03,0,🟢 Stable
+1635,0.03,0,🟢 Stable
+1929,0.03,0,🟢 Stable
+823,0.03,0,🟢 Stable
+2148,0.03,0,🟢 Stable
+1054,0.03,0,🟢 Stable
+1651,0.03,0,🟢 Stable
+4093,0.03,0,🟢 Stable
+4222,0.03,0,🟢 Stable
+1640,0.03,0,🟢 Stable
+2166,0.03,0,🟢 Stable
+2834,0.03,0,🟢 Stable
+4389,0.03,0,🟢 Stable
+1086,0.03,0,🟢 Stable
+2001,0.03,1,🟢 Stable
+4130,0.02,0,🟢 Stable
+623,0.02,0,🟢 Stable
+787,0.02,0,🟢 Stable
+1189,0.02,0,🟢 Stable
+1081,0.02,0,🟢 Stable
+4003,0.02,0,🟢 Stable
+2982,0.02,0,🟢 Stable
+1094,0.02,0,🟢 Stable
+1415,0.02,0,🟢 Stable
+3987,0.02,0,🟢 Stable
+1684,0.02,0,🟢 Stable
+985,0.02,0,🟢 Stable
+140,0.02,0,🟢 Stable
+905,0.02,0,🟢 Stable
+2005,0.02,0,🟢 Stable
+3886,0.02,0,🟢 Stable
+1008,0.02,0,🟢 Stable
+3015,0.02,0,🟢 Stable
+1225,0.02,0,🟢 Stable
+4206,0.02,0,🟢 Stable
+2380,0.01,0,🟢 Stable
+2783,0.01,0,🟢 Stable
+269,0.01,0,🟢 Stable
+3038,0.01,0,🟢 Stable
+1059,0.01,0,🟢 Stable
+450,0.01,0,🟢 Stable
+1056,0.01,1,🟢 Stable
+2743,0.01,0,🟢 Stable
+4199,0.01,0,🟢 Stable
+2160,0.01,0,🟢 Stable
+3373,0.01,0,🟢 Stable
+3644,0.01,0,🟢 Stable
+1162,0.01,0,🟢 Stable
+6,0.01,0,🟢 Stable
+3772,0.01,0,🟢 Stable
+2961,0.01,0,🟢 Stable
+1218,0.01,0,🟢 Stable
+1364,0.01,0,🟢 Stable
+2578,0.01,0,🟢 Stable
+337,0.01,0,🟢 Stable
+333,0.01,0,🟢 Stable
+161,0.01,0,🟢 Stable
+246,0.0,0,🟢 Stable
+2889,0.0,0,🟢 Stable
+4324,0.0,0,🟢 Stable
+1224,0.0,0,🟢 Stable
+1709,0.0,0,🟢 Stable
