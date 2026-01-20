@@ -1,0 +1,22 @@
+# --- Credentials and Secrets ---
+.env
+.venv/
+env/
+venv/
+*.pem
+
+# --- Jupyter Notebook Specifics ---
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+# Optional: If you want to ignore all outputs but keep the code
+# (Better to use nbstripout for this, but this is a fail-safe)
+# .ipynb
+
+# --- Python Specifics ---
+__pycache__/
+*.py[cod]
+*$py.class
+
+# --- OS Specifics ---
+.DS_Store
+Thumbs.db
